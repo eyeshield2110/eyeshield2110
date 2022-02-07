@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 I'm Noah, a software developer and 3rd year CompSci student at Concordia University 😄
 
