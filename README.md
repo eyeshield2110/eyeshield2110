@@ -1,7 +1,11 @@
-### Welcome! 👋
+# Welcome! 👋
 
-I'm Noah, a software developer and 3rd year CompSci student at Concordia University 😄
+I'm Noah, a software developer and aspiring computer scientist studying at Concordia University 😄
 
+I am interested in web services, big data mining, theoretical computer science, combinatorics and algorithms 
+
+## Leetcode profile
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=eyeshield2110)
 
 <!--
 **eyeshield2110/eyeshield2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
