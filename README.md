@@ -2,7 +2,7 @@
 
 I'm Noah, a software developer and aspiring computer scientist studying at Concordia University 😄
 
-I am interested in web services,theoretical computer science, combinatorics and algorithms 
+I am interested in web services, theoretical computer science, combinatorics and algorithms 
 
 ## Leetcode profile
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=eyeshield2110)
